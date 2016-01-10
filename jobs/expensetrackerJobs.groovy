@@ -2,7 +2,7 @@
  * Created by isc_2246 on 1/10/16.
  */
 
-String basePath = 'expense-tracker'
+String basePath = 'expensetracker'
 String repo = 'firmsoil/expense-tracker'
 
 folder(basePath) {

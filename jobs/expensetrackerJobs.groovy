@@ -3,7 +3,7 @@
  */
 
 String basePath = 'expense-tracker'
-String repo = 'firmsoil/grails-example'
+String repo = 'firmsoil/expense-tracker'
 
 folder(basePath) {
     description 'This example shows basic folder/job creation.'

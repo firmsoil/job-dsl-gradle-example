@@ -1,7 +1,7 @@
 workflowJob('expensetrackerworkflow') {
     definition {
         cps {
-            script(readFileFromWorkspace('expense-tracker-wf.groovy'))
+            script(readFileFromWorkspace('resources/expense-tracker-wf.groovy'))
         }
     }
 }
